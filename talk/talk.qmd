@@ -1,5 +1,5 @@
 ---
-title: "Talk template" 
+title: "Building a culture of open science" 
 author: Russ Poldrack
 institute: Stanford University
 title-slide-attributes:
@@ -7,7 +7,7 @@ title-slide-attributes:
     data-background-opacity: "0.5"
 format:
   revealjs: 
-    footer: "https://poldrack.github.io/talks-template/"
+    footer: "https://poldrack.github.io/talks-IncentivingGoodScience/"
     slide-number: true
     chalkboard: 
       buttons: false
@@ -17,4 +17,112 @@ format:
     width: 1920
 ---
 
-## Template slide
+##
+
+Culture: The norms, principles, and practices of an institution
+
+"Culture eats strategy for breakfast" - Peter Drucker
+
+
+## Lab culture: An anti-example
+::: {.incremental style="font-size: 1.4em;"}
+- Competitive atmosphere
+- High level of secrecy and paranoia
+- Pressure to find specific results
+- Lack of trust
+:::
+
+
+::: {.notes}
+ Lab members are pitted against one another
+  - They start out with an office in the cramped "loser room"
+  - Publishing a paper in Science/Nature/Cell gets them a seat in a windowed office (and someone else gets kicked back to the "loser room")
+- Lab members are forbidden to talk to members of another lab that studies the same topic, located in the same building
+- A postdoc is threatened with being fired (and losing their visa status) if they don't find a result consistent with the PI's hypothesis
+- The PI once scooped one of their own postdocs
+:::
+
+
+## Lab culture: A pro-example 
+
+::: {.incremental style="font-size: 1.4em;"}
+- Collaborative atmosphere
+- Openness and transparency
+- Trust
+:::
+
+::: {.notes}
+
+- Lab members are expliclty encouraged to report any errors they discover in their own work
+- All work is discussed openly in the lab, and lab members are encouraged to collaborate
+- Lab members are expected to to post their code and data openly upon preprint submission
+- Lab members are given space to do good work, and are not pressured to publish before the work is well validated
+- Lab members trust that the PI has their best interests in mind
+:::
+
+
+
+## What are the norms that we want to encourage?
+
+::: {.incremental style="font-size: 1.4em;"}
+- Intellectual humility
+- Community over competition
+- Interpersonal respect and trust
+- Openness and transparency
+:::
+
+::: {.notes}
+- ackonwledge the biases, limitations, and constraints on generalizability of our work
+- Work together rather than competing
+- Respect the contributions that each person can make, and embrace diversity of the community
+- Share data, code, and ideas openly
+:::
+
+## How can we develop a culture of open science?
+
+"Incentives drive behavior, and behavior spawns culture." - Rob Asghar
+
+![](./images/flowchart.png)
+
+
+
+## Aligning the incentives
+
+
+
+
+## Merton's Norms of Science (1942):
+
+- *universalism*
+  - "The acceptance or rejection of claims entering the lists of science is not to depend on the personal or social attributes of their protagonist; his race, nationality, religion, class, and personal qualities are as such irrelevant."
+
+## Merton's Norms of Science (1942):
+
+- *universalism*
+- *communism*
+  - "scientific knowledge as a common property."
+  - "The communism of the scientific ethos is incompatible with the definition of technology as 'private property' in a capitalistic economy"
+
+## Merton's Norms of Science (1942):
+
+- *universalism*
+- *communism*
+- *disinterestedness*
+  - scientific institutions act for the benefit of a common scientific enterprise, rather than for the personal gain of individuals within them
+  - "Cultism, informal cliques, prolific but trivial publications - these and other techniques may be used for self-aggrandisement. But, in general, spurious claims appear to be negligible and ineffective."
+
+## Merton's Norms of Science (1942):
+
+- *universalism*
+- *communism*
+- *disinterestedness*
+- *organized skepticism*
+  - "temporary suspension of judgment and the detached scrutiny of beliefs in terms of empirical and logical criteria"
+
+
+## How can we trust science?
+
+
+
+
+
