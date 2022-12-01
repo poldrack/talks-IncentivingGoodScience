@@ -1,5 +1,5 @@
 ---
-title: "Building a culture of open science" 
+title: "Building a culture of open and reproducible science" 
 author: Russ Poldrack
 institute: Stanford University
 title-slide-attributes:
@@ -24,7 +24,7 @@ Culture: The norms, principles, and practices of an institution
 "Culture eats strategy for breakfast" - Peter Drucker
 
 
-## Lab culture: An anti-example
+## Closed-science lab culture
 ::: {.incremental style="font-size: 1.4em;"}
 - Competitive atmosphere
 - High level of secrecy and paranoia
@@ -43,23 +43,25 @@ Culture: The norms, principles, and practices of an institution
 :::
 
 
-## Lab culture: A pro-example 
+## Open-science lab culture
 
 ::: {.incremental style="font-size: 1.4em;"}
-- Collaborative atmosphere
 - Openness and transparency
+- Collaborative atmosphere
 - Trust
 :::
 
 ::: {.notes}
 
+- Lab members trust that the PI has their best interests in mind
+- PI works to ensure diversity, equity, and inclusiveness
 - Lab members are expliclty encouraged to report any errors they discover in their own work
 - All work is discussed openly in the lab, and lab members are encouraged to collaborate
 - Lab members are expected to to post their code and data openly upon preprint submission
 - Lab members are given space to do good work, and are not pressured to publish before the work is well validated
-- Lab members trust that the PI has their best interests in mind
 :::
 
+::: {.notes}
 
 
 ## What are the norms that we want to encourage?
@@ -80,49 +82,131 @@ Culture: The norms, principles, and practices of an institution
 
 ## How can we develop a culture of open science?
 
+![](./images/COS_Culture_and_Behavior_Change_model.png)
+
+
+::: {style="font-size: 0.8em;text-align: center;"}
+https://www.cos.io/blog/strategy-for-culture-change
+:::
+
+
+## Making open science normative
+
+::: {.incremental style="text-align=center; font-size: 1.4em;"}
 "Incentives drive behavior, and behavior spawns culture." - Rob Asghar
+:::
 
 ![](./images/flowchart.png)
 
 
 
+
 ## Aligning the incentives
 
+::: {style="font-size: 1.4em;"}
+- Researchers should be rewarded for doing the right thing
+:::
+
+::: {.incremental style="font-size: 1.4em;"}
+
+- Problem:
+  - Who makes the decisions about hiring, tenure, and funding?
+:::
+
+
+## Increasing high-level support for open science
+
+![](./images/openscholarship.png)
 
 
 
-## Merton's Norms of Science (1942):
+## Mutually reinforcing vectors for change
 
-- *universalism*
-  - "The acceptance or rejection of claims entering the lists of science is not to depend on the personal or social attributes of their protagonist; his race, nationality, religion, class, and personal qualities are as such irrelevant."
+![](./images/changevectors.png){.absolute left="25%" height="175%"}
 
-## Merton's Norms of Science (1942):
-
-- *universalism*
-- *communism*
-  - "scientific knowledge as a common property."
-  - "The communism of the scientific ethos is incompatible with the definition of technology as 'private property' in a capitalistic economy"
-
-## Merton's Norms of Science (1942):
-
-- *universalism*
-- *communism*
-- *disinterestedness*
-  - scientific institutions act for the benefit of a common scientific enterprise, rather than for the personal gain of individuals within them
-  - "Cultism, informal cliques, prolific but trivial publications - these and other techniques may be used for self-aggrandisement. But, in general, spurious claims appear to be negligible and ineffective."
-
-## Merton's Norms of Science (1942):
-
-- *universalism*
-- *communism*
-- *disinterestedness*
-- *organized skepticism*
-  - "temporary suspension of judgment and the detached scrutiny of beliefs in terms of empirical and logical criteria"
+::: {.absolute left="35%" top=98%}
+https://www.heliosopen.org/about
+:::
 
 
-## How can we trust science?
+## Translating open science into institutional policy
+
+:::: {.columns }
+::: {.column width="50%"}
+<div style=' display: flex; justify-content: center;'>
+![](./images/helioslogo.png)
+</div>
+<div style="font-size: 1.2em;text-align: center;">
+Higher Education Leadership Initiative on Open Scholarship
+
+https://heliosopen.org
+
+</div>
+:::
+
+::: {.column width="50%" style="font-size: 1.4em;"}
+
+- HELIOS is a community of practice launched from discussions convened by the National Academies of Sciences, Engineering, and Medicine’s Roundtable on Aligning Incentives for Open Science.  
+
+- At a high level, engagement from colleges and universities has three core components:
+  - Presidential Commitment
+  - Campus Engagement
+  - Community of Practice
+
+:::
+::::
 
 
+## Case study: Changing norms around errors
+
+::: {.incremental style="font-size: 1.4em;"}
+- No human enterprise is free from errors
+  - E.g. professional software developers make 1-50 errors per 1000 lines of code
+- We should view errors as teachable moments
+  - But in many labs, errors are viewed as a sign of incompetence
+:::
 
 
+## Normalizing the discussion of errors
+
+![](./images/codingerror.png)
+
+https://russpoldrack.blogspot.com/2013/02/anatomy-of-coding-error.html
+
+
+## Errors as a teachable moment: The Morbidity and Mortality Conference as a model
+
+:::: {.columns }
+::: {.column width="50%" style="font-size: 1.4em;"}
+- Aims to identify the root causes of poor outcomes or near-misses
+- Focuses on the system, with no blame or finger-pointing
+
+:::
+::::
+
+![](./images/obgynmms2017.jpg){.absolute height="45%" left="55%" top="10%"}
+
+::: {.absolute left="55%" top=55% style="font-size: 0.6em;"}
+https://hawaiiresidency.org/ob-gyn-residency/morbidity-and-mortality-m-m
+:::
+
+## Finding and fixing errors early
+
+![](./images/biorxiv_logo.png){.absolute height="30%" left="0%" top="10%"}
+![](./images/biorxiv_title.png){.absolute height="30%" left="0%" top="30%"}
+
+![](./images/postmortem.png){.absolute height="15%" left="0%" top="63%"}
+
+::: {.absolute left="0%" top=80% style="font-size: 1.2em;"}
+We had posted a preprint describing some issues that we had identified with the stop-signal task in the ABCD Study, along with the code used for all of the analyses.  The ABCD stop-signal team performed a detailed review our code and notified us of an error in the code that resulted in inaccurate estimation of one of the basic behavioral measures on the task (subsequently described in their response to our preprint). 
+:::
+
+## Finding and fixing errors early
+
+![](./images/elife_title.png){.absolute height="50%" left="0%" top="10%"}
+
+![](./images/elife_ack.png){.absolute height="20%" left="0%" top="70%"}
+
+
+## Finding errors together
 
