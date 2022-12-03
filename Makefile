@@ -1,5 +1,5 @@
 # This tag should match the release tag in Github
-TAG = "Topic_Venue_Month_Day_Year"
+TAG = "IncentivizingOpenScience_MRITogether_Dec_4_2022"
 
 
 all: render-talk render-pdf render-site
