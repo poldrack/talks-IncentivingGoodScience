@@ -13,8 +13,8 @@ render-talk:
 	-git add docs/talk/images/*
 	-git add talk/images/*
 	# sed -i.bak 's-LICENSE-talk-' docs/talk/index.html
-	git commit -a -m"updating changed files"
-	git push origin main
+	- git commit -a -m"updating changed files"
+	- git push origin main
 
 render-site:
 	-rm docs/index.html
