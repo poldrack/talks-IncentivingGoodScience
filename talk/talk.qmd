@@ -19,10 +19,20 @@ format:
 
 ##
 
-Culture: The norms, principles, and practices of an institution
+::: {.absolute top=30% left=5% style="font-size: 1.5em;"}
+*Culture*: The norms, principles, and practices of an institution
+:::
 
-"Culture eats strategy for breakfast" - Peter Drucker
+## 
 
+
+::: {.absolute top=30% left=5% style="font-size: 1.5em;"}
+*Culture*: The norms, principles, and practices of an institution
+:::
+
+::: {.absolute top=60% left=5% style="font-size: 1.5em;"}
+"Culture is created by the behaviors you tolerate" - Jacob Engel
+:::
 
 ## Closed-science lab culture
 ::: {.incremental style="font-size: 1.4em;"}
@@ -61,26 +71,9 @@ Culture: The norms, principles, and practices of an institution
 - Lab members are given space to do good work, and are not pressured to publish before the work is well validated
 :::
 
-::: {.notes}
 
 
-## What are the norms that we want to encourage?
-
-::: {.incremental style="font-size: 1.4em;"}
-- Intellectual humility
-- Community over competition
-- Interpersonal respect and trust
-- Openness and transparency
-:::
-
-::: {.notes}
-- ackonwledge the biases, limitations, and constraints on generalizability of our work
-- Work together rather than competing
-- Respect the contributions that each person can make, and embrace diversity of the community
-- Share data, code, and ideas openly
-:::
-
-## How can we develop a culture of open science?
+## How can we move from closed to open science culture?
 
 ![](./images/COS_Culture_and_Behavior_Change_model.png)
 
@@ -92,13 +85,13 @@ https://www.cos.io/blog/strategy-for-culture-change
 
 ## Making open science normative
 
-::: {.incremental style="text-align=center; font-size: 1.4em;"}
+
+
+![](./images/flowchart.png){.absolute top="20%"}
+
+::: {.absolute top=60% style="text-align=center; font-size: 1.4em;"}
 "Incentives drive behavior, and behavior spawns culture." - Rob Asghar
 :::
-
-![](./images/flowchart.png)
-
-
 
 
 ## Aligning the incentives
@@ -114,11 +107,6 @@ https://www.cos.io/blog/strategy-for-culture-change
 :::
 
 
-## Increasing high-level support for open science
-
-![](./images/openscholarship.png)
-
-
 
 ## Mutually reinforcing vectors for change
 
@@ -127,6 +115,13 @@ https://www.cos.io/blog/strategy-for-culture-change
 ::: {.absolute left="35%" top=98%}
 https://www.heliosopen.org/about
 :::
+
+
+
+## Increasing high-level support for open science
+
+![](./images/openscholarship.png)
+
 
 
 ## Translating open science into institutional policy
@@ -146,8 +141,6 @@ https://heliosopen.org
 
 ::: {.column width="50%" style="font-size: 1.4em;"}
 
-- HELIOS is a community of practice launched from discussions convened by the National Academies of Sciences, Engineering, and Medicine’s Roundtable on Aligning Incentives for Open Science.  
-
 - At a high level, engagement from colleges and universities has three core components:
   - Presidential Commitment
   - Campus Engagement
@@ -156,14 +149,22 @@ https://heliosopen.org
 :::
 ::::
 
+## Institutional change will take time
 
-## Case study: Changing norms around errors
+::: {style="font-size: 1.5em;"}
+- What can we do on our own in the meantime?
+- Two case studies:
+  - 1: Changing norms around errors
+  - 2: Building infrastructure for collaborative software development
+:::
+
+
+## Case study #1: Changing norms around errors
 
 ::: {.incremental style="font-size: 1.4em;"}
 - No human enterprise is free from errors
   - E.g. professional software developers make 1-50 errors per 1000 lines of code
-- We should view errors as teachable moments
-  - But in many labs, errors are viewed as a sign of incompetence
+- Rather than viewing errors as a sign of incompetence, we should view them as teachable moments
 :::
 
 
@@ -173,6 +174,14 @@ https://heliosopen.org
 
 https://russpoldrack.blogspot.com/2013/02/anatomy-of-coding-error.html
 
+
+## Normalizing the discussion of errors
+
+![](./images/errortight.png){.absolute height="70%" left="20%" top="10%"}
+
+::: {.absolute top=90% left=30% style="text-align=center; font-size: 1.4em;"}
+https://psyarxiv.com/rsn5y/
+:::
 
 ## Errors as a teachable moment: The Morbidity and Mortality Conference as a model
 
@@ -195,6 +204,11 @@ https://hawaiiresidency.org/ob-gyn-residency/morbidity-and-mortality-m-m
 ![](./images/biorxiv_logo.png){.absolute height="30%" left="0%" top="10%"}
 ![](./images/biorxiv_title.png){.absolute height="30%" left="0%" top="30%"}
 
+## Finding and fixing errors early
+
+![](./images/biorxiv_logo.png){.absolute height="30%" left="0%" top="10%"}
+![](./images/biorxiv_title.png){.absolute height="30%" left="0%" top="30%"}
+
 ![](./images/postmortem.png){.absolute height="15%" left="0%" top="63%"}
 
 ::: {.absolute left="0%" top=80% style="font-size: 1.2em;"}
@@ -207,6 +221,80 @@ We had posted a preprint describing some issues that we had identified with the
 
 ![](./images/elife_ack.png){.absolute height="20%" left="0%" top="70%"}
 
+## Root cause analysis
 
-## Finding errors together
+::: {.incremental style="font-size: 1.4em;"}
+1. Flawed code review process
+  - The person who initially reviewed the code focused on the analysis code, rather than the preprocessing code where the error occurred
+2. Time pressure
+  - We were pushing to complete the work quickly, and our speed-accuracy tradeoff was not as focused on accuracy as it should have been
+:::
 
+## Case study #2: Infrastructure for collaboration across labs
+
+::: {.incremental style="font-size: 1.4em;"}
+- There are many labs developing tools for neuroimaging analysis
+  - Most of these groups write code to solve the same problem, duplicating effort
+- We could reduce the wasted time and effort by working together
+
+:::
+
+
+##  NMIND: Nevermind, this Method is Not Duplicated
+
+![](./images/ted.jpg){.absolute height="20%" left="0%" top="10%"}
+![](./images/fair_2020_profile-240.jpg){.absolute height="20%" left="13%" top="10%"}
+![](./images/satra.png){.absolute height="20%" left="0%" top="35%"}
+![](./images/Milham_Michael_updated_CMI.webp){.absolute height="20%" left="13%" top="35%"}
+![](./images/gkiar_newer.jpeg){.absolute height="40%" left="5%" top="60%"}
+
+![](./images/nmind.png){.absolute height="60%" left="27%" top="10%"}
+
+::: {.absolute left="0%" top=100% style="font-size: 1em;"}
+Greg Kiar, Child Mind Institute
+:::
+
+::: {.absolute left="50%" top=90% style="font-size: 2em;"}
+http://nmind.org
+:::
+
+## 
+
+![](./images/nmind_outcomes.png){.absolute height="100%" left="10%" top="0%"}
+
+
+::: {.absolute left="35%" top=100% style="font-size: 1.4em;"}
+http://nmind.org
+:::
+
+
+## Conclusion
+
+
+![](./images/flowchart.png){.absolute top="20%"}
+
+::: {.absolute top=60% style="font-size: 1.4em;"}
+- We must all work to change the incentive structures of science
+- We can all start now to establish the practices that will give rise to a culture of open and reproducible science
+:::
+
+##
+
+##
+
+
+## What are the norms that we want to encourage?
+
+::: {.incremental style="font-size: 1.4em;"}
+- Intellectual humility
+- Community over competition
+- Interpersonal respect and trust
+- Openness and transparency
+:::
+
+::: {.notes}
+- ackonwledge the biases, limitations, and constraints on generalizability of our work
+- Work together rather than competing
+- Respect the contributions that each person can make, and embrace diversity of the community
+- Share data, code, and ideas openly
+:::

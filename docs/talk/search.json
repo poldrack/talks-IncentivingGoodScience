@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "talk.html#section",
+    "href": "talk.html#section",
+    "title": "Building a culture of open and reproducible science",
+    "section": "",
+    "text": "Culture: The norms, principles, and practices of an institution"
+  },
+  {
+    "objectID": "talk.html#section-1",
+    "href": "talk.html#section-1",
+    "title": "Building a culture of open and reproducible science",
+    "section": "",
+    "text": "Culture: The norms, principles, and practices of an institution\n\n\n“Culture is created by the behaviors you tolerate” - Jacob Engel"
+  },
+  {
+    "objectID": "talk.html#closed-science-lab-culture",
+    "href": "talk.html#closed-science-lab-culture",
+    "title": "Building a culture of open and reproducible science",
+    "section": "Closed-science lab culture",
+    "text": "Closed-science lab culture\n\n\nCompetitive atmosphere\nHigh level of secrecy and paranoia\nPressure to find specific results\nLack of trust\n\n\n\nLab members are pitted against one another - They start out with an office in the cramped “loser room” - Publishing a paper in Science/Nature/Cell gets them a seat in a windowed office (and someone else gets kicked back to the “loser room”) - Lab members are forbidden to talk to members of another lab that studies the same topic, located in the same building - A postdoc is threatened with being fired (and losing their visa status) if they don’t find a result consistent with the PI’s hypothesis - The PI once scooped one of their own postdocs"
+  },
+  {
+    "objectID": "talk.html#open-science-lab-culture",
+    "href": "talk.html#open-science-lab-culture",
+    "title": "Building a culture of open and reproducible science",
+    "section": "Open-science lab culture",
+    "text": "Open-science lab culture\n\n\nOpenness and transparency\nCollaborative atmosphere\nTrust\n\n\n\n\nLab members trust that the PI has their best interests in mind\nPI works to ensure diversity, equity, and inclusiveness\nLab members are expliclty encouraged to report any errors they discover in their own work\nAll work is discussed openly in the lab, and lab members are encouraged to collaborate\nLab members are expected to to post their code and data openly upon preprint submission\nLab members are given space to do good work, and are not pressured to publish before the work is well validated"
+  },
+  {
+    "objectID": "talk.html#how-can-we-move-from-closed-to-open-science-culture",
+    "href": "talk.html#how-can-we-move-from-closed-to-open-science-culture",
+    "title": "Building a culture of open and reproducible science",
+    "section": "How can we move from closed to open science culture?",
+    "text": "How can we move from closed to open science culture?\n\n\nhttps://www.cos.io/blog/strategy-for-culture-change"
+  },
+  {
+    "objectID": "talk.html#making-open-science-normative",
+    "href": "talk.html#making-open-science-normative",
+    "title": "Building a culture of open and reproducible science",
+    "section": "Making open science normative",
+    "text": "Making open science normative\n\n\n“Incentives drive behavior, and behavior spawns culture.” - Rob Asghar"
+  },
+  {
+    "objectID": "talk.html#aligning-the-incentives",
+    "href": "talk.html#aligning-the-incentives",
+    "title": "Building a culture of open and reproducible science",
+    "section": "Aligning the incentives",
+    "text": "Aligning the incentives\n\n\nResearchers should be rewarded for doing the right thing\n\n\n\n\nProblem:\n\nWho makes the decisions about hiring, tenure, and funding?"
+  },
+  {
+    "objectID": "talk.html#mutually-reinforcing-vectors-for-change",
+    "href": "talk.html#mutually-reinforcing-vectors-for-change",
+    "title": "Building a culture of open and reproducible science",
+    "section": "Mutually reinforcing vectors for change",
+    "text": "Mutually reinforcing vectors for change\n\n\nhttps://www.heliosopen.org/about"
+  },
+  {
+    "objectID": "talk.html#increasing-high-level-support-for-open-science",
+    "href": "talk.html#increasing-high-level-support-for-open-science",
+    "title": "Building a culture of open and reproducible science",
+    "section": "Increasing high-level support for open science",
+    "text": "Increasing high-level support for open science"
+  },
+  {
+    "objectID": "talk.html#translating-open-science-into-institutional-policy",
+    "href": "talk.html#translating-open-science-into-institutional-policy",
+    "title": "Building a culture of open and reproducible science",
+    "section": "Translating open science into institutional policy",
+    "text": "Translating open science into institutional policy\n\n\n\n\n\n\nHigher Education Leadership Initiative on Open Scholarship\nhttps://heliosopen.org\n\n\n\nAt a high level, engagement from colleges and universities has three core components:\n\nPresidential Commitment\nCampus Engagement\nCommunity of Practice"
+  },
+  {
+    "objectID": "talk.html#institutional-change-will-take-time",
+    "href": "talk.html#institutional-change-will-take-time",
+    "title": "Building a culture of open and reproducible science",
+    "section": "Institutional change will take time",
+    "text": "Institutional change will take time\n\n\nWhat can we do on our own in the meantime?\nTwo case studies:\n\n1: Changing norms around errors\n2: Building infrastructure for collaborative software development"
+  },
+  {
+    "objectID": "talk.html#case-study-1-changing-norms-around-errors",
+    "href": "talk.html#case-study-1-changing-norms-around-errors",
+    "title": "Building a culture of open and reproducible science",
+    "section": "Case study #1: Changing norms around errors",
+    "text": "Case study #1: Changing norms around errors\n\n\nNo human enterprise is free from errors\n\nE.g. professional software developers make 1-50 errors per 1000 lines of code\n\nRather than viewing errors as a sign of incompetence, we should view them as teachable moments"
+  },
+  {
+    "objectID": "talk.html#normalizing-the-discussion-of-errors",
+    "href": "talk.html#normalizing-the-discussion-of-errors",
+    "title": "Building a culture of open and reproducible science",
+    "section": "Normalizing the discussion of errors",
+    "text": "Normalizing the discussion of errors\n\nhttps://russpoldrack.blogspot.com/2013/02/anatomy-of-coding-error.html"
+  },
+  {
+    "objectID": "talk.html#normalizing-the-discussion-of-errors-1",
+    "href": "talk.html#normalizing-the-discussion-of-errors-1",
+    "title": "Building a culture of open and reproducible science",
+    "section": "Normalizing the discussion of errors",
+    "text": "Normalizing the discussion of errors\n\n\nhttps://psyarxiv.com/rsn5y/"
+  },
+  {
+    "objectID": "talk.html#errors-as-a-teachable-moment-the-morbidity-and-mortality-conference-as-a-model",
+    "href": "talk.html#errors-as-a-teachable-moment-the-morbidity-and-mortality-conference-as-a-model",
+    "title": "Building a culture of open and reproducible science",
+    "section": "Errors as a teachable moment: The Morbidity and Mortality Conference as a model",
+    "text": "Errors as a teachable moment: The Morbidity and Mortality Conference as a model\n\n\n\nAims to identify the root causes of poor outcomes or near-misses\nFocuses on the system, with no blame or finger-pointing\n\n\n\n\n\nhttps://hawaiiresidency.org/ob-gyn-residency/morbidity-and-mortality-m-m"
+  },
+  {
+    "objectID": "talk.html#finding-and-fixing-errors-early",
+    "href": "talk.html#finding-and-fixing-errors-early",
+    "title": "Building a culture of open and reproducible science",
+    "section": "Finding and fixing errors early",
+    "text": "Finding and fixing errors early"
+  },
+  {
+    "objectID": "talk.html#finding-and-fixing-errors-early-1",
+    "href": "talk.html#finding-and-fixing-errors-early-1",
+    "title": "Building a culture of open and reproducible science",
+    "section": "Finding and fixing errors early",
+    "text": "Finding and fixing errors early\n \n\n\nWe had posted a preprint describing some issues that we had identified with the stop-signal task in the ABCD Study, along with the code used for all of the analyses. The ABCD stop-signal team performed a detailed review our code and notified us of an error in the code that resulted in inaccurate estimation of one of the basic behavioral measures on the task (subsequently described in their response to our preprint)."
+  },
+  {
+    "objectID": "talk.html#case-study-2-infrastructure-for-collaboration-across-labs",
+    "href": "talk.html#case-study-2-infrastructure-for-collaboration-across-labs",
+    "title": "Building a culture of open and reproducible science",
+    "section": "Case study #2: Infrastructure for collaboration across labs",
+    "text": "Case study #2: Infrastructure for collaboration across labs\n\n\nThere are many labs developing tools for neuroimaging analysis\n\nMost of these groups write code to solve the same problem, duplicating effort\n\nWe could reduce the wasted time and effort by working together"
+  },
+  {
+    "objectID": "talk.html#nmind-nevermind-this-method-is-not-duplicated",
+    "href": "talk.html#nmind-nevermind-this-method-is-not-duplicated",
+    "title": "Building a culture of open and reproducible science",
+    "section": "NMIND: Nevermind, this Method is Not Duplicated",
+    "text": "NMIND: Nevermind, this Method is Not Duplicated\n    \n\n\nGreg Kiar, Child Mind Institute\n\n\nhttp://nmind.org"
+  },
+  {
+    "objectID": "talk.html#section-2",
+    "href": "talk.html#section-2",
+    "title": "Building a culture of open and reproducible science",
+    "section": "",
+    "text": "http://nmind.org"
+  },
+  {
+    "objectID": "talk.html#conclusion",
+    "href": "talk.html#conclusion",
+    "title": "Building a culture of open and reproducible science",
+    "section": "Conclusion",
+    "text": "Conclusion\n\n\n\nWe must all work to change the incentive structures of science\nWe can all start now to establish the practices that will give rise to a culture of open and reproducible science"
+  },
+  {
+    "objectID": "talk.html#what-are-the-norms-that-we-want-to-encourage",
+    "href": "talk.html#what-are-the-norms-that-we-want-to-encourage",
+    "title": "Building a culture of open and reproducible science",
+    "section": "What are the norms that we want to encourage?",
+    "text": "What are the norms that we want to encourage?\n\n\nIntellectual humility\nCommunity over competition\nInterpersonal respect and trust\nOpenness and transparency\n\n\n\n\nackonwledge the biases, limitations, and constraints on generalizability of our work\nWork together rather than competing\nRespect the contributions that each person can make, and embrace diversity of the community\nShare data, code, and ideas openly\n\n\n\n\nhttps://poldrack.github.io/talks-IncentivingGoodScience/"
+  },
+  {
+    "objectID": "talk.html#finding-and-fixing-errors-early-2",
+    "href": "talk.html#finding-and-fixing-errors-early-2",
+    "title": "Building a culture of open and reproducible science",
+    "section": "Finding and fixing errors early",
+    "text": "Finding and fixing errors early"
+  },
+  {
+    "objectID": "talk.html#root-cause-analysis",
+    "href": "talk.html#root-cause-analysis",
+    "title": "Building a culture of open and reproducible science",
+    "section": "Root cause analysis",
+    "text": "Root cause analysis\n\n\nFlawed code review process\n\n\nThe person who initially reviewed the code focused on the analysis code, rather than the preprocessing code where the error occurred\n\n\nTime pressure\n\n\nWe were pushing to complete the work quickly, and our speed-accuracy tradeoff was not as focused on accuracy as it should have been"
+  }
+]
