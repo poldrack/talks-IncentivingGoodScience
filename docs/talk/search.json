@@ -119,6 +119,20 @@
     "text": "Finding and fixing errors early\n \n\n\nWe had posted a preprint describing some issues that we had identified with the stop-signal task in the ABCD Study, along with the code used for all of the analyses. The ABCD stop-signal team performed a detailed review our code and notified us of an error in the code that resulted in inaccurate estimation of one of the basic behavioral measures on the task (subsequently described in their response to our preprint)."
   },
   {
+    "objectID": "talk.html#finding-and-fixing-errors-early-2",
+    "href": "talk.html#finding-and-fixing-errors-early-2",
+    "title": "Building a culture of open and reproducible science",
+    "section": "Finding and fixing errors early",
+    "text": "Finding and fixing errors early"
+  },
+  {
+    "objectID": "talk.html#root-cause-analysis",
+    "href": "talk.html#root-cause-analysis",
+    "title": "Building a culture of open and reproducible science",
+    "section": "Root cause analysis",
+    "text": "Root cause analysis\n\n\nFlawed code review process\n\n\nThe person who initially reviewed the code focused on the analysis code, rather than the preprocessing code where the error occurred\n\n\nTime pressure\n\n\nWe were pushing to complete the work quickly, and our speed-accuracy tradeoff was not as focused on accuracy as it should have been"
+  },
+  {
     "objectID": "talk.html#case-study-2-infrastructure-for-collaboration-across-labs",
     "href": "talk.html#case-study-2-infrastructure-for-collaboration-across-labs",
     "title": "Building a culture of open and reproducible science",
@@ -152,19 +166,5 @@
     "title": "Building a culture of open and reproducible science",
     "section": "What are the norms that we want to encourage?",
     "text": "What are the norms that we want to encourage?\n\n\nIntellectual humility\nCommunity over competition\nInterpersonal respect and trust\nOpenness and transparency\n\n\n\n\nackonwledge the biases, limitations, and constraints on generalizability of our work\nWork together rather than competing\nRespect the contributions that each person can make, and embrace diversity of the community\nShare data, code, and ideas openly\n\n\n\n\nhttps://poldrack.github.io/talks-IncentivingGoodScience/"
-  },
-  {
-    "objectID": "talk.html#finding-and-fixing-errors-early-2",
-    "href": "talk.html#finding-and-fixing-errors-early-2",
-    "title": "Building a culture of open and reproducible science",
-    "section": "Finding and fixing errors early",
-    "text": "Finding and fixing errors early"
-  },
-  {
-    "objectID": "talk.html#root-cause-analysis",
-    "href": "talk.html#root-cause-analysis",
-    "title": "Building a culture of open and reproducible science",
-    "section": "Root cause analysis",
-    "text": "Root cause analysis\n\n\nFlawed code review process\n\n\nThe person who initially reviewed the code focused on the analysis code, rather than the preprocessing code where the error occurred\n\n\nTime pressure\n\n\nWe were pushing to complete the work quickly, and our speed-accuracy tradeoff was not as focused on accuracy as it should have been"
   }
 ]
