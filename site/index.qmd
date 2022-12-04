@@ -1,7 +1,7 @@
 ---
 ---
 
-## Talks about the template project
+## Talks about incentivizing open science
 
 [Current version of talk](talk/)
 
