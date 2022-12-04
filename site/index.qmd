@@ -34,7 +34,7 @@ username = "poldrack"
 
 token_file = os.path.join(repo_obj.working_dir, '.token')
 if os.path.exists(token_file):
-    with open() as f:
+    with open(token_file) as f:
         token = f.read().strip()
 
     g = Github(token)
